@@ -1,4 +1,7 @@
 ---
+genres:
+  - idle
+  - casual
 directors_cut: https://js13k2026.kieransmith.me/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
